@@ -1,4 +1,4 @@
-# Lab 5 | Semantic Analyzer
+# Lab 1 | Palindrome
 *A program that checks if the input is equivalent to it's reverse*
 
 Marasigan, Vem Aiensi A. <br>
